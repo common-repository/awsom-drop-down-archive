@@ -1,0 +1,5 @@
+AWSOM Archive Known Issues Help File
+
+No Current Issues.
+
+If none of these settings or techniques resolves your issue please go to http://www.awsom.org for more support.

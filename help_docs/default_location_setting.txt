@@ -1,0 +1,21 @@
+AWSOM Archive Default Location setting Help File
+
+By Default AWSOM Archive displays it's output on your index page above your posts area. AWSOM Archive was designed to
+minimize the need for the user to directly alter their theme files in order to get an archive area to
+appear on their site. This setting turns on or off this behavior for advanced users who would prefer
+to place the archive output in an alternate location. Turn this
+setting to "No" to have the Archive block only appear in locations where you have placed
+the theme code or post/page code. Leave this setting on "Yes" if you want the Archive
+block to appear in ever location including the default one.
+
+The code for placing the Archive in a custom location in a theme file is listed
+in the Options-->Awsom Archive admin page. Simply paste this into your theme file where you
+want the Archive to display. An alternate method of display is to use the AWSOM Archive
+post/page code %%awsomarchive%% to have the Archive output appear in a post or page.
+
+Please Note that you may have as many locations active as you'd like using any combination
+of theme code, post/page code and Default location and the Archive will display
+in every location (even multiple pages/posts and theme code locations).
+
+
+If none of these settings or techniques resolves your issue please go to http://www.awsom.org or http://www.harknell.com for more support.

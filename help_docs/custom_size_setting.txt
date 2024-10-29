@@ -1,0 +1,8 @@
+AWSOM Archive Custom Size setting Help File
+
+This setting is designed to compensate for when some servers misformat the drop down box width size to be too small
+for the text that is being displayed. In cases like this you need to add in a number here that will dictate the width
+of the drop down box. You may need to play with this a bit to get the size you want.
+
+
+If none of these settings or techniques resolves your issue please go to http://www.awsom.org or http://www.harknell.com for more support.

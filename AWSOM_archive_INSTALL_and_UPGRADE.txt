@@ -1,0 +1,13 @@
+Install guide for AWSOM Archive plugin
+
+1) Unzip AWSOM archive zip file.
+2) Upload awsomarchive folder to your wp-content/plugins folder on your webserver.
+3) Activate AWSOM Archive in your Admin "Plugins" area.
+4) Done!
+
+Upgrade guide
+1) Unzip AWSOM archive zip folder.
+2) Deactivate current version on your site. Delete plugin files
+3) Upload awsomarchive folder to your wp-content/plugins folder on your webserver.
+4) Activate new version.
+5) Done!

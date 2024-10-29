@@ -1,0 +1,26 @@
+AWSOM Drop Down Archive CHANGELOG
+Written by Harknell
+1.5.0	10/01/22	Integrated code from the plugin Archive for a Category to include/exclude categories when using custom archive setting
+1.4.3	12/15/11	Small text update in Admin settings page to correct typo
+1.4.2	07/23/09	Updated plugin for automiatic plugin installer compatibility.
+
+1.4.1	07/15/08	Updated Plugin to support new WordPress 2.6 plugin paths system.
+1.4.0	03/09/08	Added Category Limitation support when used in conjunction with the "archives for a category" plugin. 
+1.3.0	01/08/08	Added in more robust multi-loop display blocking feature when using default location placement.
+			Added in Awsom footer creidt admin setting.
+			Revised Admin area text to reflect the new way the plugin works, including help files.
+1.2.3	12/30/07	Added in a conditional to prevent the archive appearing on Share This pages (to correct a conflict with that plugin that lead to Headers already sent error)
+1.2.2	11/06/07	Plugin made XHTML compliant
+			Fixed Typo when Archive is successfully updated.
+1.2.1	10/02/07	Fixed a bug that didn't allow the archive to show post counts on custom locations.
+			Added in ability to display the archive in a page or post.
+1.2.0	09/11/07	The Archive is now called by the new method of wp_get_archives to increase future Wordpress compatibility.
+			Added in New CSS options added in admin options.
+			Added in ability to customize wp_get_archives through admin options.
+			Added in ability to turn on or off default location.
+			Added in ability to place the archive in a custom location.
+1.1.1	07/01/07	Fixed an issue where the archive could appear in the sidebar in addition to the content area.
+			Added requested feature to select size of displayed archive box through admin panel.
+1.0.2	06/21/07	Fixed a bug that injected the archive into the rss feed.
+1.0.1	05/21/07	Fixed very minor bug where drop down archive could appear in Admin area image upload form.
+1.0.0	05/03/07	Initial Public Release of Plugin

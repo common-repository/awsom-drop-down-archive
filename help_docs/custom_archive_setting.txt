@@ -1,0 +1,37 @@
+AWSOM Archive Custom archive setting Help File
+
+
+The Custom Archive Setting fields allow you to make major changes to the entries displayed by your Archive. 
+
+
+Here are some examples of what would be directly entered in the input boxes for different basic scenarios.
+Note: Leave setting boxes blank if nothing is shown for that setting. Numbers listed for limit to category numbers settings are examples, use actual category numbers specific to your site.
+You can find the category numbers for your sites categories by going to the Posts-->Categories settings area and hovering over a category name and seeing the number listed in the tag_ID= field of the URL
+
+example to only display entries from one category:
+
+type: postbypost
+format: option
+limit to category numbers: 1
+
+example to only display entries from more than one category:
+
+type: postbypost
+format: option
+limit to category numbers: 1,2,3 
+
+example to exclude display entries from one category:
+
+type: postbypost
+format: option
+limit to category numbers: -1 
+
+example to exclude display entries from more than one category:
+
+type: postbypost
+format: option
+limit to category numbers: -1,-2,-3 
+
+For a deep dive on how these settings work please review the information at https://developer.wordpress.org/reference/functions/wp_get_archives/
+
+If none of these settings or techniques resolves your issue please go to http://www.awsom.org or http://www.harknell.com for more support.
